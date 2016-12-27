@@ -1,0 +1,1 @@
+/Users/treykeown/.platformio/packages/toolchain-xtensa/bin/xtensa-lx106-elf-g++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ornament.dir/src/test.cpp.o  -o ornament  
