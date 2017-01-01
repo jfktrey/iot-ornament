@@ -3,3 +3,5 @@
 CMakeListsPrivate.txt
 cmake-build-debug/
 .idea/
+src/secret.h
+.DS_Store
